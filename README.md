@@ -26,7 +26,7 @@ Com a aplicação clonada e todas as dependências instaladas você pode executa
 
 ### `npm start`
 
-O servidor irá subir em 'http://localhost:8080/votes
+O servidor irá subir em http://localhost:8080/votes
 
 ## Instalação frontend
 
